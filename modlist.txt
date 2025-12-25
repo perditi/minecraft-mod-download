@@ -1,0 +1,43 @@
+https://modrinth.com/mod/appleskin
+
+https://modrinth.com/mod/cubes-without-borders
+
+https://modrinth.com/mod/fabric-api
+https://modrinth.com/mod/fabric-language-kotlin
+https://modrinth.com/mod/ferrite-core
+https://modrinth.com/mod/freelook
+https://modrinth.com/mod/iris
+https://modrinth.com/mod/jade
+https://modrinth.com/mod/modmenu
+https://modrinth.com/mod/not-enough-animations
+
+https://modrinth.com/mod/shulkerboxtooltip
+https://modrinth.com/mod/3dskinlayers
+https://modrinth.com/mod/sodium-extra
+https://modrinth.com/mod/sodium
+https://modrinth.com/mod/sound-physics-remastered
+
+https://modrinth.com/mod/xaeros-minimap
+https://modrinth.com/mod/xaeros-world-map
+https://modrinth.com/mod/xaero-zoomout
+https://modrinth.com/mod/yacl
+https://modrinth.com/mod/yosbr
+https://modrinth.com/mod/zoomify
+https://modrinth.com/mod/clickthrough+
+
+#continuity
+https://modrinth.com/mod/continuity
+#eating animation
+https://modrinth.com/mod/eating-animation
+#stendhal
+https://modrinth.com/mod/stendhal
+
+#for fresh animations:
+https://modrinth.com/mod/entity-model-features
+https://modrinth.com/mod/entitytexturefeatures
+# https://modrinth.com/resourcepack/fresh-animations
+
+#2d dropped items
+https://modrinth.com/mod/fast-items
+
+
