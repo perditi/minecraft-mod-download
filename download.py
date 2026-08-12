@@ -16,7 +16,7 @@ def download(dl_url: str, dest_folder: str):
 
     r = requests.get(dl_url, stream=True)
     if r.ok:
-        print("saving to", file_path)
+        print("saving as", filename)
         with open(file_path, 'wb') as f:
             for chunk in r.iter_content(chunk_size=1024 * 8):
                 if chunk:

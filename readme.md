@@ -1,6 +1,6 @@
 i don't know how to write a nice readme so this is me waffling
 
-you'll need selenium for this, so you'll probably have to do a `pip install selenium` somewhere or other, idk. oh yeah also it opens a window in edge (chromium, etc. idk) to do the downloads so idk what'll happen if you're not on windows or if you don't have edge.
+you'll need selenium and beautiful soup for this, so you'll probably have to do a `pip install selenium beautifulsoup4` somewhere or other, idk. oh yeah also it opens a window in edge (chromium, etc. idk) to load the webpage so bs4 can get the dl link so idk what'll happen if you're not on windows/if you don't have edge.
 
 ideally you should keep your modlist txt in the same directory as the python script since that's the way i wrote it
 
@@ -20,7 +20,7 @@ options:
 ```
 
 
-so yeah your modlist is allowed to have commented lines. only official releases are allowed, so no betas or pre-releases or release candidates or snapshots or anything. the modloader defaults to fabric but it technically supports other loaders (i didn't test this but it should work since there's not really any difference in the download process)
+so yeah your modlist is allowed to have commented lines (lines that start with a #). only official releases are allowed, so no betas or pre-releases or release candidates or snapshots or anything. the modloader defaults to fabric but it technically supports other loaders (i didn't test this but it should work since there's not really any difference in the download process)
 
 oh yeah and this likely won't work with anything that's not a mod on modrinth, so don't try it bc i don't know what'll happen
 
