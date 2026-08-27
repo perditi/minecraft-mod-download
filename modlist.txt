@@ -11,6 +11,8 @@ https://modrinth.com/mod/jade
 https://modrinth.com/mod/modmenu
 https://modrinth.com/mod/not-enough-animations
 
+https://modrinth.com/mod/no-chat-reports
+
 https://modrinth.com/mod/shulkerboxtooltip
 https://modrinth.com/mod/3dskinlayers
 https://modrinth.com/mod/sodium-extra
